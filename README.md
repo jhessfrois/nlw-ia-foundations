@@ -9,7 +9,7 @@ Aplicação desenvolvida no NLW IA da Rocketseat na trilha Explorer.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-github-pages">Github Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,8 +38,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto foi desenvolvido uma site para transcrever e resumir os shorts do Youtube. Utlizando dois modelos de IA: um para extrair texto do áudio e outro para resumir o conteúdo. O idioma para resumir está em inglês.
 
-## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-spacetime-explorer/)
+## 💻 Deploy
+[🔗 Clique aqui para acessar](https://nlw-ia-foundations-three.vercel.app/)
 
 ## **🤍 Contato**
 
