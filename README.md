@@ -23,6 +23,8 @@ Aplicação desenvolvida no NLW IA da Rocketseat na trilha Explorer.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/w4yu9OI.png" width="80%">
 </p>
 
+> Projeto desenvolvido entre os dias 19/02 e 22/02 de 2024
+
 ## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
