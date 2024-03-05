@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo NLW IA - Rocketseat" src="https://i.imgur.com/iJCVq88.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no NLW IA da Rocketseat na trilha Explorer.
